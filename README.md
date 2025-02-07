@@ -67,7 +67,7 @@ Git
 
 Clone the Repository
 
-git clone https://github.com/Arpita-oss/finance-advisor-ai.git
+git clone https://github.com/Arpita-oss/Fin-wise.git
 cd finance-advisor-ai
 
 Backend Setup
